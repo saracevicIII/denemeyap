@@ -1,0 +1,54 @@
+name: Canli mac listesini guncelle
+
+on:
+  schedule:
+    - cron: "0 7,11,14,17,20 * * *"   # UTC saatleri = Turkiye 10:00, 14:00, 17:00, 20:00, 23:00
+  workflow_dispatch:                    # Actions sekmesinden elle de calistirabilirsin
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guncelle
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Paketleri kur
+        run: |
+          pip install beautifulsoup4 lxml openpyxl playwright
+          playwright install --with-deps chromium
+
+      - name: Liste dosyasini hazirla
+        id: liste
+        run: |
+          # Repoda kanal listesi (xlsx/m3u) varsa onu kullan; yoksa bos liste ile sadece canli maclari uret
+          if ls kanal_listesi*.xlsx >/dev/null 2>&1; then
+            echo "dosya=$(ls kanal_listesi*.xlsx | head -n1)" >> "$GITHUB_OUTPUT"
+          elif ls kanal_listesi*.m3u >/dev/null 2>&1; then
+            echo "dosya=$(ls kanal_listesi*.m3u | head -n1)" >> "$GITHUB_OUTPUT"
+          else
+            printf '#EXTM3U\n' > bos_liste.m3u
+            echo "dosya=bos_liste.m3u" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Scripti calistir
+        run: python canli_mac_guncelle.py --liste "${{ steps.liste.outputs.dosya }}" --cikti canli.m3u
+
+      - name: Degisiklik varsa kaydet
+        run: |
+          rm -f bos_liste.m3u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canli.m3u
+          git diff --cached --quiet || git commit -m "Canli mac listesi guncellendi"
+          git push
