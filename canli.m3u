@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | SKY SPORT F1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-name="DAZN F1" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | DAZN F1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-name="DAZN F1 (2)" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | DAZN F1 (2) [ES]
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-name="DAZN F1 (3)" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | DAZN F1 (3) [ES]
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-name="DAZN F1 (4)" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | DAZN F1 (4) [ES]
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-name="DAZN F1 (5)" group-title="Canlı Maç",11:00 | Formula 1 Grand Prix Of Singapore | Formula 1 GP vs Practice 1 | DAZN F1 (5) [ES]
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES" group-title="Canlı Maç",16:50 | Saudi Arabia Pro League | Al Kholood vs Al Quadisiya | M+ LIGA DE CAMPEONES [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",17:00 | Germany Bundesliga 2 | Neftekhimik vs Chelyabinsk | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Canlı Maç",17:55 | Saudi Arabia Pro League | Al Fateh vs Al Ahli | FOX SPORTS 2 [US]
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-name="MATCH!" group-title="Canlı Maç",19:30 | Germany Bundesliga 2 | Arsenal Tula vs Spartak Kostroma | MATCH! [RU]
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" group-title="Canlı Maç",19:30 | Germany Bundesliga 2 | Eintracht Braunschweig vs Holstein Kiel | ELEVEN SPORTS 3 [PL]
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",19:30 | Germany Bundesliga 2 | Heidenheim vs Kaiserslautern | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",19:30 | Germany Bundesliga 2 | Heidenheim vs Kaiserslautern | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",19:30 | Russia Russian Premier League | Rostov vs Akron | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",20:00 | Turkey Super Lig | Galatasaray vs Kasimpasa | BEIN SPORTS 1 [TR]
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 3" group-title="Canlı Maç",20:00 | Turkey Super Lig | Galatasaray vs Kasimpasa | MATCH! FOOTBALL 3 [RU]
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Canlı Maç",21:00 | Germany Bundesliga 2 | Almere City vs Eindhoven | ESPN 3 [NL]
+http://127.0.0.1:6878/ace/getstream?id=a97cafedefe189d63e52eadc5c9bbc351b01540a
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Canlı Maç",21:00 | Germany Bundesliga 2 | NAC Breda vs MVV | ESPN 4 [NL]
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-name="ELEVEN DAZN 3" group-title="Canlı Maç",21:00 | Netherlands Eredivisie | PSV vs Heerenveen | ELEVEN DAZN 3 [PT]
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Canlı Maç",21:00 | Netherlands Eredivisie | PSV vs Heerenveen | ESPN 1 [NL]
+http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Canlı Maç",21:00 | Netherlands Eredivisie | PSV vs Heerenveen | ESPN 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 1" group-title="Canlı Maç",21:00 | Netherlands Eredivisie | PSV vs Heerenveen | POLSAT SPORT PREMIUM 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES" group-title="Canlı Maç",21:00 | Saudi Arabia Pro League | Al Nassr vs Diriyah | M+ LIGA DE CAMPEONES [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | BEIN SPORTS 2 [FR]
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | ELEVEN SPORTS 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (2)" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | ELEVEN SPORTS 1 (2) [PL]
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="SETANTA 1" group-title="Canlı Maç",21:30 | Germany Bundesliga | Borussia Dortmund vs Werder Bremen | SETANTA 1 [UA]
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",21:45 | France Ligue 1 | Lens vs Olympique Lyonnais | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",21:45 | France Ligue 1 | Lens vs Olympique Lyonnais | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="SETANTA 2" group-title="Canlı Maç",21:45 | France Ligue 1 | Lens vs Olympique Lyonnais | SETANTA 2 [UA]
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",22:00 | England Championship | West Ham United vs Queens Park Rangers | SKY SPORTS MAIN EVENT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",22:00 | England Championship | West Ham United vs Queens Park Rangers | SKY SPORTS MAIN EVENT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 1" group-title="Canlı Maç",22:00 | England Championship | West Ham United vs Queens Park Rangers | SKY SPORTS FOOTBALL 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 2" group-title="Canlı Maç",22:00 | England Championship | West Ham United vs Queens Park Rangers | SKY SPORTS FOOTBALL 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=54de746f7823812312b4000422618465f7d58f87
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="DAZN LALIGA" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | DAZN LALIGA [ES]
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | DAZN 1 BAR 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | DAZN 1 BAR 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-name="MATCH!" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | MATCH! [RU]
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",22:00 | Spain La Liga | Malaga vs Espanyol | MATCH! FOOTBALL 2 [RU]
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Canlı Maç",22:15 | Portugal Primeira Liga | Sporting Braga vs Sporting CP | BEIN SPORTS 3 [TR]
+http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:15 | Portugal Primeira Liga | Sporting Braga vs Sporting CP | ZIGGO SPORT 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" group-title="Canlı Maç",22:15 | Portugal Primeira Liga | Sporting Braga vs Sporting CP | ELEVEN SPORTS 4 [PL]
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 3" group-title="Canlı Maç",22:15 | Portugal Primeira Liga | Sporting Braga vs Sporting CP | MATCH! FOOTBALL 3 [RU]
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
