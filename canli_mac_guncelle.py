@@ -192,6 +192,8 @@ def platinsport_cek(alan):
             if "source-list.php" in request.url:
                 yanit = route.fetch()
                 yakalanan["html"] = yanit.text()
+                yakalanan["durum"] = yanit.status
+                yakalanan["adres"] = request.url
                 route.fulfill(response=yanit)
             else:
                 route.continue_()
@@ -216,7 +218,11 @@ def platinsport_cek(alan):
         tarayici.close()
     if "html" not in yakalanan:
         raise RuntimeError("source-list.php yanıtı yakalanamadı")
-    return yakalanan["html"]
+    ham = yakalanan["html"]
+    print(f"ℹ DEBUG {alan}: durum={yakalanan.get('durum')} uzunluk={len(ham)} "
+          f"acestream_sayisi={ham.lower().count('acestream://')} adres={yakalanan.get('adres')}")
+    print("ℹ DEBUG ilk 600 karakter:", re.sub(r"\s+", " ", ham[:600]))
+    return ham
 
 def platinsport_duz_cek(alan):
     """Tarayıcı (playwright) olmadan (ör. telefon): ana sayfadaki PLAY / günlük sayfa linkini
