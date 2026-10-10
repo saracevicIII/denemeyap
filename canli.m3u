@@ -275,6 +275,8 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 http://127.0.0.1:6878/ace/getstream?id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
 #EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",22:00 | Spain La Liga | Real Madrid vs Villarreal | M. LALIGA 3 [ES]
 http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Spain La Liga | Real Madrid vs Villarreal | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",22:00 | Spain La Liga | Real Madrid vs Villarreal | ZIGGO SPORT 1 [NL]
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:00 | Spain La Liga | Real Madrid vs Villarreal | ZIGGO SPORT 2 [NL]
