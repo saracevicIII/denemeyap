@@ -1,131 +1,115 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | Galatasaray U19 vs Barcelona U19 | M+ LIGA DE CAMPEONES 1 [ES]
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | AS Roma U19 vs Real Madrid U19 | M+ LIGA DE CAMPEONES 1 [ES]
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | Galatasaray U19 vs Barcelona U19 | M+ LIGA DE CAMPEONES 2 [ES]
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | AS Roma U19 vs Real Madrid U19 | M+ LIGA DE CAMPEONES 2 [ES]
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | RB Leipzig U19 vs PSV U19 | M+ LIGA DE CAMPEONES 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | RB Leipzig U19 vs PSV U19 | DAZN 1 BAR 1 [DE]
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | RB Leipzig U19 vs PSV U19 | DAZN 1 BAR 2 [DE]
-http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-#EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | RB Leipzig U19 vs PSV U19 | ZIGGO SPORT 1 [NL]
-http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",15:00 | Europe UEFA Youth League | RB Leipzig U19 vs PSV U19 | ZIGGO SPORT 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=8e475c8b9f12270c524f88f5659cc6811fc1399c
-#EXTINF:-1 tvg-name="TNT SPORT 1" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Atletico Madrid U19 vs Manchester United U19 | TNT SPORT 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
-#EXTINF:-1 tvg-name="TNT SPORT 1 (2)" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Atletico Madrid U19 vs Manchester United U19 | TNT SPORT 1 (2) [GB]
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Atletico Madrid U19 vs Manchester United U19 | M+ LIGA DE CAMPEONES 1 [ES]
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Atletico Madrid U19 vs Manchester United U19 | M+ LIGA DE CAMPEONES 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Villarreal U19 vs Napoli U19 | ELEVEN DAZN 1 [PT]
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Villarreal U19 vs Napoli U19 | M+ LIGA DE CAMPEONES 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",18:30 | Russia Russian Cup | Lokomotiv Moskva vs Akron | MATCH PREMIER TV [RU]
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",16:15 | Russia Russian Cup | Krylya Sovetov vs Baltika | MATCH PREMIER TV [RU]
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="ESPN 2" group-title="Canlı Maç",19:00 | Asia AFC Champions League Elite | Al Sadd vs Al Hilal | ESPN 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | TNT SPORT 2 [GB]
-http://127.0.0.1:6878/ace/getstream?id=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-name="TNT SPORT 2 (2)" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | TNT SPORT 2 (2) [GB]
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | M+ LIGA DE CAMPEONES 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | DAZN 1 BAR 1 [DE]
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | DAZN 1 BAR 2 [DE]
-http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-#EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | ZIGGO SPORT 1 [NL]
-http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | ZIGGO SPORT 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=8e475c8b9f12270c524f88f5659cc6811fc1399c
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Lens vs Sporting CP | ZIGGO SPORT 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Sabah vs Slavia Praha | ELEVEN DAZN 1 [PT]
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | ELEVEN DAZN 1 [PT]
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="TNT SPORT 4" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Sabah vs Slavia Praha | TNT SPORT 4 [GB]
-http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Sabah vs Slavia Praha | M+ LIGA DE CAMPEONES 3 [ES]
-http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Sabah vs Slavia Praha | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",20:45 | Russia Russian Cup | Krasnodar vs Fakel | MATCH PREMIER TV [RU]
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="ESPN 1" group-title="Canlı Maç",21:15 | Asia AFC Champions League Elite | Al Ittihad vs Shabab Al Ahli | ESPN 1 [NL]
-http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER" group-title="Canlı Maç",22:00 | England Championship | Stoke City vs Middlesbrough | SKY SPORTS PREMIER [GB]
-http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",22:00 | England Championship | Stoke City vs Middlesbrough | SKY SPORTS MAIN EVENT 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",22:00 | England Championship | Stoke City vs Middlesbrough | SKY SPORTS MAIN EVENT 2 [GB]
-http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
-#EXTINF:-1 tvg-name="ELEVEN DAZN 3" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Arsenal vs Lille | ELEVEN DAZN 3 [PT]
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-name="TNT SPORT 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Arsenal vs Lille | TNT SPORT 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
-#EXTINF:-1 tvg-name="TNT SPORT 1 (2)" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Arsenal vs Lille | TNT SPORT 1 (2) [GB]
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Arsenal vs Lille | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Arsenal vs Lille | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Atletico Madrid vs Manchester United | ELEVEN DAZN 1 [PT]
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Atletico Madrid vs Manchester United | M+ LIGA DE CAMPEONES 1 [ES]
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Atletico Madrid vs Manchester United | M+ LIGA DE CAMPEONES 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Atletico Madrid vs Manchester United | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Atletico Madrid vs Manchester United | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | ELEVEN DAZN 2 [PT]
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | ELEVEN DAZN 2 [PT]
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | TNT SPORT 2 [GB]
-http://127.0.0.1:6878/ace/getstream?id=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-name="TNT SPORT 2 (2)" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | TNT SPORT 2 (2) [GB]
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="MOVISTAR PLUS+" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | MOVISTAR PLUS+ [ES]
-http://127.0.0.1:6878/ace/getstream?id=fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | M+ LIGA DE CAMPEONES 2 [ES]
+#EXTINF:-1 tvg-name="TNT SPORT 3" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | TNT SPORT 3 [GB]
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="TNT SPORT 3 (2)" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | TNT SPORT 3 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=d57ebd44296b0c92c0661cc964e737a54b852cec
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | M+ LIGA DE CAMPEONES 2 [ES]
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Galatasaray vs Barcelona | ZIGGO SPORT 2 [NL]
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Manchester City U19 vs PSG U19 | ZIGGO SPORT 2 [NL]
 http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Internazionale vs Club Brugge | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Internazionale vs Club Brugge | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | RB Leipzig vs PSV | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | RB Leipzig vs PSV | DAZN 1 BAR 1 [DE]
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | RB Leipzig vs PSV | DAZN 1 BAR 2 [DE]
-http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-#EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | RB Leipzig vs PSV | ZIGGO SPORT 1 [NL]
-http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | RB Leipzig vs PSV | ZIGGO SPORT 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=8e475c8b9f12270c524f88f5659cc6811fc1399c
-#EXTINF:-1 tvg-name="ELEVEN DAZN 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Viking vs Bayern Munchen | ELEVEN DAZN 4 [PT]
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-name="TNT SPORT 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Viking vs Bayern Munchen | TNT SPORT 4 [GB]
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Real Betis U19 vs Porto U19 | M+ LIGA DE CAMPEONES 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",17:00 | Europe UEFA Youth League | Real Betis U19 vs Porto U19 | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",18:30 | Russia Russian Cup | Akhmat Grozny vs Dinamo Moskva | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="MATCH!" group-title="Canlı Maç",18:30 | Russia Russian Cup | Dynamo Makhachkala vs Zenit | MATCH! [RU]
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="TNT SPORT 4" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | TNT SPORT 4 [GB]
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Viking vs Bayern Munchen | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Villarreal vs Napoli | M+ LIGA DE CAMPEONES 3 [ES]
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | M+ LIGA DE CAMPEONES 3 [ES]
 http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Villarreal vs Napoli | M+ LIGA DE CAMPEONES 4 [ES]
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Villarreal vs Napoli | DAZN 2 BAR [DE]
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | DAZN 2 BAR [DE]
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",03:30 | England Championship | Boca Juniors vs Vasco da Gama | SPORTDIGITAL [DE]
+#EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | ZIGGO SPORT 1 [NL]
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | Feyenoord vs Como | ZIGGO SPORT 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=8e475c8b9f12270c524f88f5659cc6811fc1399c
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | TNT SPORT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=01dcc1ea3387c2b73953efe3f52286a770737d7c
+#EXTINF:-1 tvg-name="TNT SPORT 2 (2)" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | TNT SPORT 2 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | DAZN 1 BAR 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",19:45 | Europe UEFA Champions League | LASK Linz vs Liverpool | DAZN 1 BAR 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",20:45 | Russia Russian Cup | CSKA Moskva vs Rostov | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",22:00 | England Championship | Lincoln City vs West Ham United | SKY SPORTS MAIN EVENT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",22:00 | England Championship | Lincoln City vs West Ham United | SKY SPORTS MAIN EVENT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 1" group-title="Canlı Maç",22:00 | England Championship | Lincoln City vs West Ham United | SKY SPORTS FOOTBALL 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 2" group-title="Canlı Maç",22:00 | England Championship | Lincoln City vs West Ham United | SKY SPORTS FOOTBALL 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=54de746f7823812312b4000422618465f7d58f87
+#EXTINF:-1 tvg-name="ELEVEN DAZN 3" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Aston Villa vs Fenerbahce | ELEVEN DAZN 3 [PT]
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Aston Villa vs Fenerbahce | TNT SPORT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=01dcc1ea3387c2b73953efe3f52286a770737d7c
+#EXTINF:-1 tvg-name="TNT SPORT 2 (2)" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Aston Villa vs Fenerbahce | TNT SPORT 2 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Aston Villa vs Fenerbahce | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="ELEVEN DAZN 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Bodo Glimt vs Borussia Dortmund | ELEVEN DAZN 4 [PT]
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Bodo Glimt vs Borussia Dortmund | DAZN 1 BAR 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Bodo Glimt vs Borussia Dortmund | DAZN 1 BAR 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="TNT SPORT 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | TNT SPORT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 tvg-name="TNT SPORT 1 (2)" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | TNT SPORT 1 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | M+ LIGA DE CAMPEONES 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | ZIGGO SPORT 1 [NL]
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | ZIGGO SPORT 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=8e475c8b9f12270c524f88f5659cc6811fc1399c
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Manchester City vs PSG | ZIGGO SPORT 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Real Betis vs Porto | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Real Betis vs Porto | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Roma vs Real Madrid | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="TNT SPORT 4" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Roma vs Real Madrid | TNT SPORT 4 [GB]
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Roma vs Real Madrid | M+ LIGA DE CAMPEONES 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Roma vs Real Madrid | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Roma vs Real Madrid | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Shakhtar Donetsk vs AEK Athens | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Europe UEFA Champions League | Slovan Bratislava vs Stuttgart | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",01:00 | Argentina Primera Division | Atletico Mineiro vs Torque | SPORTDIGITAL [DE]
 http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="ESPN 1" group-title="Canlı Maç",03:30 | England Championship | Boca Juniors vs Vasco da Gama | ESPN 1 [NL]
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",01:00 | Argentina Primera Division | Atletico Mineiro vs Torque | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Canlı Maç",03:30 | Argentina Primera Division | Fluminense vs Palmeiras | ESPN 1 [NL]
 http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",03:30 | Argentina Primera Division | Fluminense vs Palmeiras | SPORTDIGITAL [DE]
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
