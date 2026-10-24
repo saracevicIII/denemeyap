@@ -63,6 +63,8 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 #EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",15:00 | Spain La Liga | Rayo Vallecano vs Elche | M. LALIGA 3 [ES]
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",15:00 | Spain La Liga | Rayo Vallecano vs Elche | M. LALIGA 4 [ES]
+http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",15:00 | Spain La Liga | Rayo Vallecano vs Elche | MATCH! FOOTBALL 2 [RU]
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-name="HYPERMOTION 1" group-title="Canlı Maç",15:00 | Spain Segunda Division | Cordoba vs Eibar | HYPERMOTION 1 [ES]
@@ -132,10 +134,14 @@ http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="ELEVEN DAZN 3" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | ELEVEN DAZN 3 [PT]
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-name="DAZN LALIGA 1" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | DAZN LALIGA 1 [ES]
-http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+http://127.0.0.1:6878/ace/getstream?id=f43ef903dc750610978b47df47a0cb389413fe61
 #EXTINF:-1 tvg-name="DAZN LALIGA 2" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | DAZN LALIGA 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
+http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-name="DAZN LALIGA 3" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | DAZN LALIGA 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 tvg-name="DAZN LALIGA 4" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | DAZN LALIGA 4 [ES]
+http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 tvg-name="DAZN LALIGA 5" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | DAZN LALIGA 5 [ES]
 http://127.0.0.1:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
 #EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",17:15 | Spain La Liga | Racing Santander vs Espanyol | MATCH! FOOTBALL 2 [RU]
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
@@ -199,6 +205,10 @@ http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",19:30 | Spain La Liga | Valencia vs Villarreal | ELEVEN DAZN 2 [PT]
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",19:30 | Spain La Liga | Valencia vs Villarreal | M. LALIGA 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="M. LALIGA 2 (2)" group-title="Canlı Maç",19:30 | Spain La Liga | Valencia vs Villarreal | M. LALIGA 2 (2) [ES]
+http://127.0.0.1:6878/ace/getstream?id=448551642d9c7d0de53aa35d1ee41788909b6c0c
 #EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",19:30 | Spain La Liga | Valencia vs Villarreal | ZIGGO SPORT 1 [NL]
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",19:30 | Spain La Liga | Valencia vs Villarreal | ZIGGO SPORT 2 [NL]
@@ -257,12 +267,18 @@ http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | ELEVEN DAZN 1 [PT]
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="MOVISTAR PLUS+ 1" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | MOVISTAR PLUS+ 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-name="MOVISTAR PLUS+ 2" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | MOVISTAR PLUS+ 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=d23497596720b47b096ec0f850d6d26a19d1a336
 #EXTINF:-1 tvg-name="M. LALIGA 1" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | M. LALIGA 1 [ES]
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | M. LALIGA 2 [ES]
 http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 #EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | M. LALIGA 3 [ES]
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | M. LALIGA 4 [ES]
+http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | DAZN 2 BAR [DE]
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-name="ZIGGO SPORT 1" group-title="Canlı Maç",22:00 | Spain La Liga | Atletico Madrid vs Deportivo La Coruna | ZIGGO SPORT 1 [NL]
