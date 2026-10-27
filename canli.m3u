@@ -1,77 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ESPN 1" group-title="Canlı Maç",16:45 | Asia AFC Champions League Elite | Neftchi vs Al Ittihad | ESPN 1 [NL]
-http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",19:00 | Turkey Super Lig | Besiktas vs Istanbul Basaksehir | BEIN SPORTS 2 [TR]
-http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",19:00 | Turkey Super Lig | Besiktas vs Istanbul Basaksehir | BEIN SPORTS 1 [FR]
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="MATCH! FOOTBALL 3" group-title="Canlı Maç",19:00 | Turkey Super Lig | Besiktas vs Istanbul Basaksehir | MATCH! FOOTBALL 3 [RU]
-http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",19:00 | Turkey Super Lig | Rizespor vs Trabzonspor | BEIN SPORTS 1 [TR]
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",19:00 | Turkey Super Lig | Rizespor vs Trabzonspor | BEIN SPORTS 2 [FR]
-http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="ESPN 2" group-title="Canlı Maç",21:15 | Asia AFC Champions League Elite | Al Quadisiya vs Al Sadd | ESPN 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",21:30 | Turkey Super Lig | Galatasaray vs Fenerbahce | BEIN SPORTS 1 [TR]
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Canlı Maç",21:30 | Turkey Super Lig | Galatasaray vs Fenerbahce | BEIN SPORTS 3 [FR]
-http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-name="MATCH! FOOTBALL 1" group-title="Canlı Maç",21:30 | Turkey Super Lig | Galatasaray vs Fenerbahce | MATCH! FOOTBALL 1 [RU]
-http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",21:45 | Portugal Primeira Liga | Santa Clara vs Benfica | SPORTDIGITAL [DE]
-http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Canlı Maç",21:45 | Portugal Primeira Liga | Santa Clara vs Benfica | BEIN SPORTS 3 [TR]
-http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" group-title="Canlı Maç",21:45 | Portugal Primeira Liga | Santa Clara vs Benfica | ELEVEN SPORTS 1 [PL]
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (2)" group-title="Canlı Maç",21:45 | Portugal Primeira Liga | Santa Clara vs Benfica | ELEVEN SPORTS 1 (2) [PL]
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="MATCH! FOOTBALL 3" group-title="Canlı Maç",21:45 | Portugal Primeira Liga | Santa Clara vs Benfica | MATCH! FOOTBALL 3 [RU]
-http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:30 | France Ligue 1 | PSG vs Olympique Lyonnais | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Canlı Maç",22:30 | France Ligue 1 | PSG vs Olympique Lyonnais | BEIN SPORTS 3 [TR]
-http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",22:30 | France Ligue 1 | PSG vs Olympique Lyonnais | ELEVEN SPORTS 2 [PL]
-http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="HYPERMOTION 1" group-title="Canlı Maç",22:30 | Spain Segunda Division | FC Andorra vs Burgos | HYPERMOTION 1 [ES]
-http://127.0.0.1:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 tvg-name="HYPERMOTION 2" group-title="Canlı Maç",22:30 | Spain Segunda Division | FC Andorra vs Burgos | HYPERMOTION 2 [ES]
-http://127.0.0.1:6878/ace/getstream?id=2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",22:45 | France Ligue 2 | Boulogne vs Reims | BEIN SPORTS 2 [FR]
-http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",22:45 | France Ligue 2 | Montpellier vs Red Star | BEIN SPORTS 1 [FR]
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Canlı Maç",22:45 | France Ligue 2 | Montpellier vs Red Star | BEIN SPORTS 4 [TR]
-http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",23:00 | England League Two | Walsall vs Salford City | SKY SPORTS MAIN EVENT 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",23:00 | England League Two | Walsall vs Salford City | SKY SPORTS MAIN EVENT 2 [GB]
-http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
-#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 1" group-title="Canlı Maç",23:00 | England League Two | Walsall vs Salford City | SKY SPORTS FOOTBALL 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 2" group-title="Canlı Maç",23:00 | England League Two | Walsall vs Salford City | SKY SPORTS FOOTBALL 2 [GB]
-http://127.0.0.1:6878/ace/getstream?id=54de746f7823812312b4000422618465f7d58f87
-#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | ELEVEN DAZN 1 [PT]
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",18:00 | Russia Russian Cup | Fakel vs Akhmat Grozny | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" group-title="Canlı Maç",20:00 | Italy Serie A | Bochum vs Mainz 05 | ELEVEN SPORTS 4 [PL]
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",20:00 | Italy Serie A | Hamburger SV vs Eintracht Frankfurt | ELEVEN DAZN 1 [PT]
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | ELEVEN DAZN 2 [PT]
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",20:00 | Italy Serie A | Hamburger SV vs Eintracht Frankfurt | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",20:00 | Italy Serie A | RotWeiss Essen vs RB Leipzig | ELEVEN DAZN 2 [PT]
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="PREMIER SPORT 1" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | PREMIER SPORT 1 [GB]
-http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="PREMIER SPORT 1 (2)" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | PREMIER SPORT 1 (2) [GB]
-http://127.0.0.1:6878/ace/getstream?id=13ddaf59c0f2d760fd3775acc254e13825206eac
-#EXTINF:-1 tvg-name="M. LALIGA 1" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | M. LALIGA 1 [ES]
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" group-title="Canlı Maç",20:00 | Italy Serie A | RotWeiss Essen vs RB Leipzig | ELEVEN SPORTS 3 [PL]
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",20:30 | Italy Serie A | Sassuolo vs Lazio | DAZN 1 BAR 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",20:30 | Italy Serie A | Sassuolo vs Lazio | DAZN 1 BAR 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" group-title="Canlı Maç",20:30 | Italy Serie A | Sassuolo vs Lazio | ELEVEN SPORTS 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (2)" group-title="Canlı Maç",20:30 | Italy Serie A | Sassuolo vs Lazio | ELEVEN SPORTS 1 (2) [PL]
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 1" group-title="Canlı Maç",20:30 | Italy Serie A | Sassuolo vs Lazio | MATCH! FOOTBALL 1 [RU]
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="MATCH!" group-title="Canlı Maç",20:30 | Russia Russian Cup | Krasnodar vs Dinamo Moskva | MATCH! [RU]
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",20:30 | Russia Russian Cup | Krasnodar vs Dinamo Moskva | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Canlı Maç",20:45 | Portugal Taca da Liga | Excelsior 31 vs ADO Den Haag | ESPN 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",21:00 | England League Cup | Pinatar vs Elche | M. LALIGA 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="M. LALIGA 2 (2)" group-title="Canlı Maç",21:00 | England League Cup | Pinatar vs Elche | M. LALIGA 2 (2) [ES]
+http://127.0.0.1:6878/ace/getstream?id=780cb213269a9af82978ace9b1ae10814caddcc9
+#EXTINF:-1 tvg-name="M. LALIGA 1" group-title="Canlı Maç",21:00 | England League Cup | Sestao River vs Espanyol | M. LALIGA 1 [ES]
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | M. LALIGA 2 [ES]
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",21:00 | England League Cup | Sestao River vs Espanyol | M. LALIGA 2 [ES]
 http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
-#EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | M. LALIGA 3 [ES]
+#EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",21:00 | England League Cup | Sestao River vs Espanyol | M. LALIGA 3 [ES]
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | M. LALIGA 4 [ES]
+#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",21:00 | England League Cup | Sestao River vs Espanyol | M. LALIGA 4 [ES]
 http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | ZIGGO SPORT 2 [NL]
-http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",23:00 | Spain La Liga | Sevilla vs Osasuna | MATCH! FOOTBALL 2 [RU]
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",21:00 | England League Cup | Sestao River vs Espanyol | MATCH! FOOTBALL 2 [RU]
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",22:45 | Italy Serie A | Borussia Dortmund vs Werder Bremen | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="PREMIER SPORT 1" group-title="Canlı Maç",22:45 | Italy Serie A | Borussia Dortmund vs Werder Bremen | PREMIER SPORT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="PREMIER SPORT 1 (2)" group-title="Canlı Maç",22:45 | Italy Serie A | Borussia Dortmund vs Werder Bremen | PREMIER SPORT 1 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=13ddaf59c0f2d760fd3775acc254e13825206eac
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",22:45 | Italy Serie A | Borussia Dortmund vs Werder Bremen | BEIN SPORTS 1 [FR]
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",22:45 | Italy Serie A | Borussia Dortmund vs Werder Bremen | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",22:45 | Italy Serie A | Koln vs Union Berlin | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" group-title="Canlı Maç",22:45 | Italy Serie A | Koln vs Union Berlin | ELEVEN SPORTS 4 [PL]
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:45 | Italy Serie A | Roma vs Cagliari | DAZN 2 BAR [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" group-title="Canlı Maç",22:45 | Italy Serie A | Roma vs Cagliari | ELEVEN SPORTS 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (2)" group-title="Canlı Maç",22:45 | Italy Serie A | Roma vs Cagliari | ELEVEN SPORTS 1 (2) [PL]
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 1" group-title="Canlı Maç",22:45 | Italy Serie A | Roma vs Cagliari | MATCH! FOOTBALL 1 [RU]
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",22:45 | Italy Serie A | Torino vs Como | DAZN 1 BAR 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",22:45 | Italy Serie A | Torino vs Como | DAZN 1 BAR 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" group-title="Canlı Maç",22:45 | Italy Serie A | Torino vs Como | ELEVEN SPORTS 3 [PL]
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 3" group-title="Canlı Maç",22:45 | Italy Serie A | Torino vs Como | MATCH! FOOTBALL 3 [RU]
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",23:00 | England League Cup | Alcazar vs Malaga | M. LALIGA 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | SKY SPORTS MAIN EVENT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | SKY SPORTS MAIN EVENT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 1" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | SKY SPORTS FOOTBALL 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 2" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | SKY SPORTS FOOTBALL 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=54de746f7823812312b4000422618465f7d58f87
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | BEIN SPORTS 2 [FR]
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-name="SETANTA 1" group-title="Canlı Maç",23:00 | England League Cup | Fleetwood Town vs Arsenal | SETANTA 1 [UA]
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",23:00 | England League Cup | Manacor vs Villarreal | M. LALIGA 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-name="M. LALIGA 2 (2)" group-title="Canlı Maç",23:00 | England League Cup | Manacor vs Villarreal | M. LALIGA 2 (2) [ES]
+http://127.0.0.1:6878/ace/getstream?id=780cb213269a9af82978ace9b1ae10814caddcc9
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",23:00 | England League Cup | Manacor vs Villarreal | MATCH! FOOTBALL 2 [RU]
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="M. LALIGA 1" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M. LALIGA 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M. LALIGA 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M. LALIGA 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M. LALIGA 4 [ES]
+http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M+ LIGA DE CAMPEONES 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",23:00 | England League Cup | Recreativo Huelva vs Rayo Vallecano | M+ LIGA DE CAMPEONES 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Canlı Maç",23:00 | Portugal Taca da Liga | Koninklijke HFC vs Go Ahead Eagles | ESPN 4 [NL]
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
