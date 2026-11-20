@@ -1,41 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",16:00 | Africa Africa Cup of Nations Qualification | Malawi vs Egypt | BEIN SPORTS 1 [FR]
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",16:00 | Africa Africa Cup of Nations Qualification | South Sudan vs Angola | BEIN SPORTS 1 [TR]
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA N" group-title="Canlı Maç",16:00 | Africa Africa Cup of Nations Qualification | South Sudan vs Angola | BEIN SPORTS XTRA N [ES]
-http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
-#EXTINF:-1 tvg-name="DAZN 1 BAR 1" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Gambia vs Cote dIvoire | DAZN 1 BAR 1 [DE]
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="DAZN 1 BAR 2" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Gambia vs Cote dIvoire | DAZN 1 BAR 2 [DE]
-http://127.0.0.1:6878/ace/getstream?id=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Libya vs Tunisia | BEIN SPORTS 2 [FR]
+#EXTINF:-1 tvg-name="TNT SPORT 1" group-title="Canlı Maç",09:00 | Australia ALeague | Central Coast Mariners vs Perth Glory | TNT SPORT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 tvg-name="TNT SPORT 1 (2)" group-title="Canlı Maç",09:00 | Australia ALeague | Central Coast Mariners vs Perth Glory | TNT SPORT 1 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",11:40 | Australia ALeague | Brisbane Roar vs Sydney FC | SPORTDIGITAL [DE]
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="MATCH PREMIER TV" group-title="Canlı Maç",19:30 | Russia Russian Premier League | Rostov vs Krylya Sovetov | MATCH PREMIER TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="MATCH! FOOTBALL 2" group-title="Canlı Maç",19:30 | Russia Russian Premier League | Rostov vs Krylya Sovetov | MATCH! FOOTBALL 2 [RU]
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="SKY SPORT 2" group-title="Canlı Maç",20:30 | Germany Bundesliga 2 | Arminia Bielefeld vs Magdeburg | SKY SPORT 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",20:30 | Germany Bundesliga 2 | Arminia Bielefeld vs Magdeburg | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",20:30 | Germany Bundesliga 2 | Darmstadt 98 vs Heidenheim | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="SKY SPORT 2" group-title="Canlı Maç",20:30 | Germany Bundesliga 2 | Darmstadt 98 vs Heidenheim | SKY SPORT 2 [DE]
+http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" group-title="Canlı Maç",20:30 | Germany Bundesliga 2 | Darmstadt 98 vs Heidenheim | ELEVEN SPORTS 3 [PL]
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",20:30 | Saudi Arabia Pro League | AlAhli vs Al Nassr | SPORTDIGITAL [DE]
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="SETANTA 2" group-title="Canlı Maç",20:30 | Saudi Arabia Pro League | AlAhli vs Al Nassr | SETANTA 2 [UA]
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Canlı Maç",22:00 | Germany Bundesliga 2 | Den Bosch vs VVV | ESPN 3 [NL]
+http://127.0.0.1:6878/ace/getstream?id=a97cafedefe189d63e52eadc5c9bbc351b01540a
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Canlı Maç",22:00 | Germany Bundesliga 2 | Heracles vs PSV II | ESPN 2 [NL]
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Canlı Maç",22:00 | Germany Bundesliga 2 | Volendam vs Ajax II | ESPN 4 [NL]
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-name="ELEVEN DAZN 1" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | ELEVEN DAZN 1 [PT]
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 1" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | M+ LIGA DE CAMPEONES 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | M+ LIGA DE CAMPEONES 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | M+ LIGA DE CAMPEONES 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-name="SKY SPORT 1" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | SKY SPORT 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-name="SKY SPORT 1 (2)" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | SKY SPORT 1 (2) [DE]
+http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | BEIN SPORTS 2 [FR]
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA N" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Libya vs Tunisia | BEIN SPORTS XTRA N [ES]
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | ELEVEN SPORTS 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 (2)" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | ELEVEN SPORTS 1 (2) [PL]
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="SETANTA 2" group-title="Canlı Maç",22:30 | Germany Bundesliga | Bayern Munchen vs Koln | SETANTA 2 [UA]
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="Canlı Maç",22:30 | Saudi Arabia Pro League | Pogon Szczecin vs Slask Wrocaw | SPORTDIGITAL [DE]
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="HYPERMOTION 1" group-title="Canlı Maç",22:30 | Spain Segunda Division | FC Andorra vs Leganes | HYPERMOTION 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 tvg-name="HYPERMOTION 2" group-title="Canlı Maç",22:30 | Spain Segunda Division | FC Andorra vs Leganes | HYPERMOTION 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 tvg-name="BEIN SPORTS XTRA N" group-title="Canlı Maç",22:45 | France Ligue 1 | Troyes vs Le Havre | BEIN SPORTS XTRA N [ES]
 http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Togo vs Algeria | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",19:00 | Africa Africa Cup of Nations Qualification | Togo vs Algeria | BEIN SPORTS 1 [FR]
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA N" group-title="Canlı Maç",22:00 | Africa Africa Cup of Nations Qualification | Mauritania vs Burkina Faso | BEIN SPORTS XTRA N [ES]
-http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Denmark vs Norway | FOX SPORTS 1 [US]
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Denmark vs Norway | ZIGGO SPORT 2 [NL]
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" group-title="Canlı Maç",22:45 | France Ligue 1 | Troyes vs Le Havre | ELEVEN SPORTS 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 1" group-title="Canlı Maç",23:00 | England League One | Barnsley vs Sheffield Wednesday | SKY SPORTS MAIN EVENT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT 2" group-title="Canlı Maç",23:00 | England League One | Barnsley vs Sheffield Wednesday | SKY SPORTS MAIN EVENT 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 1" group-title="Canlı Maç",23:00 | England League One | Barnsley vs Sheffield Wednesday | SKY SPORTS FOOTBALL 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL 2" group-title="Canlı Maç",23:00 | England League One | Barnsley vs Sheffield Wednesday | SKY SPORTS FOOTBALL 2 [GB]
+http://127.0.0.1:6878/ace/getstream?id=54de746f7823812312b4000422618465f7d58f87
+#EXTINF:-1 tvg-name="ELEVEN DAZN 2" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | ELEVEN DAZN 2 [PT]
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="M. LALIGA 1" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | M. LALIGA 1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-name="M. LALIGA 2" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | M. LALIGA 2 [ES]
+http://127.0.0.1:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-name="M. LALIGA 3" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | M. LALIGA 3 [ES]
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-name="M. LALIGA 4" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | M. LALIGA 4 [ES]
+http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-name="ZIGGO SPORT 2" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | ZIGGO SPORT 2 [NL]
 http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 1" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Denmark vs Norway | POLSAT SPORT PREMIUM 1 [PL]
-http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Hungary vs Northern Ireland | FOX SPORTS 2 [US]
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-name="DAZN 2 BAR" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Wales vs Portugal | DAZN 2 BAR [DE]
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="POLSAT SPORT PREMIUM 2" group-title="Canlı Maç",22:45 | Europe UEFA Nations League | Wales vs Portugal | POLSAT SPORT PREMIUM 2 [PL]
-http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Canlı Maç",23:00 | Africa Africa Cup of Nations Qualification | Niger vs Morocco | BEIN SPORTS 1 [FR]
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Canlı Maç",03:00 | North America CONCACAF Nations League | French Guiana vs Saint Vincent and the Grenadines | FOX SPORTS 2 [US]
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Canlı Maç",04:00 | North America CONCACAF Nations League | El Salvador vs Saint Martin | FOX SPORTS 1 [US]
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Canlı Maç",06:00 | North America CONCACAF Nations League | Nicaragua vs Montserrat | FOX SPORTS 1 [US]
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-name="MATCH!" group-title="Canlı Maç",23:00 | Spain La Liga | Athletic Club vs Espanyol | MATCH! [RU]
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | SKY SPORT F1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-name="DAZN F1" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | DAZN F1 [ES]
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-name="DAZN F1 (2)" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | DAZN F1 (2) [ES]
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-name="DAZN F1 (3)" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | DAZN F1 (3) [ES]
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-name="DAZN F1 (4)" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | DAZN F1 (4) [ES]
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-name="DAZN F1 (5)" group-title="Canlı Maç",06:00 | Formula 1 Grand Prix Of Las Vegas | Formula 1 GP vs Qualifying | DAZN F1 (5) [ES]
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-name="TNT SPORT 1" group-title="Canlı Maç",07:00 | Australia ALeague | Auckland vs Melbourne Victory | TNT SPORT 1 [GB]
+http://127.0.0.1:6878/ace/getstream?id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 tvg-name="TNT SPORT 1 (2)" group-title="Canlı Maç",07:00 | Australia ALeague | Auckland vs Melbourne Victory | TNT SPORT 1 (2) [GB]
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
